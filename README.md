@@ -1,4 +1,4 @@
-# 📊 HR Insight
+# HR Insight
 
 ### Sistema de Analítica e Innovación para Recursos Humanos
 
@@ -8,7 +8,7 @@ El sistema permite visualizar información de manera interactiva y detectar auto
 
 ---
 
-## 🎯 Objetivo del proyecto
+## Objetivo del proyecto
 
 El objetivo de HR Insight es transformar los datos de Recursos Humanos en información útil para la toma de decisiones.
 
@@ -24,11 +24,10 @@ La aplicación permite:
 * Filtrar los resultados por departamento.
 * Exportar los resultados a un reporte Excel.
 
----
 
-## 🚀 Funcionalidades principales
+##  Funcionalidades principales
 
-### 👥 Gestión y análisis de empleados
+###  Gestión y análisis de empleados
 
 El sistema permite consultar información de los empleados y aplicar filtros según el departamento seleccionado.
 
@@ -41,9 +40,7 @@ Entre los datos analizados se encuentran:
 * Horas de capacitación.
 * Ausencias.
 
----
-
-### 📊 Indicadores KPI
+###  Indicadores KPI
 
 El dashboard presenta indicadores generales y específicos del departamento seleccionado:
 
@@ -57,11 +54,10 @@ El dashboard presenta indicadores generales y específicos del departamento sele
 
 Los indicadores se actualizan automáticamente al cambiar el departamento.
 
----
 
-## 🎯 Índice de Riesgo de RRHH
+## Índice de Riesgo de RRHH
 
-HR Insight cuenta con un módulo para identificar empleados que pueden presentar un mayor nivel de riesgo.
+HR nsight cuenta con un módulo para identificar empleados que pueden presentar un mayor nivel de riesgo.
 
 Los empleados son clasificados en:
 
@@ -82,7 +78,7 @@ Además, se presenta una tabla con los empleados que tienen los mayores índices
 
 ---
 
-## ⚠️ Alertas Inteligentes
+## Alertas Inteligentes
 
 Una de las funcionalidades principales de HR Insight es el sistema de **Alertas Inteligentes de Recursos Humanos**.
 
@@ -106,7 +102,7 @@ Las alertas se actualizan de acuerdo con el departamento seleccionado.
 
 ---
 
-## 🎓 Análisis de capacitación
+## Análisis de capacitación
 
 El sistema permite identificar empleados que pueden requerir capacitación.
 
@@ -121,7 +117,7 @@ También se muestra la cantidad de empleados identificados.
 
 ---
 
-## 🚑 Análisis de ausentismo
+## Análisis de ausentismo
 
 HR Insight permite identificar empleados con niveles elevados de ausentismo.
 
@@ -135,7 +131,7 @@ Esto permite detectar posibles situaciones que deberían ser analizadas por el �
 
 ---
 
-## 📈 Visualizaciones
+## Visualizaciones
 
 La aplicación utiliza gráficos interactivos para facilitar la interpretación de los datos.
 
@@ -252,7 +248,7 @@ Se recomienda utilizar un entorno virtual para instalar las dependencias.
 
 ---
 
-## 🚀 Instalación
+## Instalación
 
 ### 1. Clonar el repositorio
 
@@ -476,7 +472,7 @@ Este proyecto fue desarrollado como parte de un proyecto académico de desarroll
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 **Dayron Cayalta**
 
@@ -484,7 +480,7 @@ Proyecto académico — **HR Insight**
 
 ---
 
-## 📌 Estado del proyecto
+## Estado del proyecto
 
 🟢 **Proyecto funcional**
 
